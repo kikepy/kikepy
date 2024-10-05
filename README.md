@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,unity" />
+    <img src="https://skillicons.dev/icons?i=assembly,c,cpp,unity,typescript,mysql,sql,mongodb" />
   </a>
 </p>
 
