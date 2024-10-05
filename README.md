@@ -5,6 +5,10 @@
 
 -Chess player
 
+-Im currently working on me and my skill
+
+-Intersted in backend development and ethical hacking
+
 
 #### Languages and Tools:
 
