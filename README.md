@@ -1,4 +1,4 @@
-## Hi there 👋 Im Luis Cohalla 
+## Hi there im Luis Cohalla 
 
 
 -Im Computer Science Student in Havana University @matcom
