@@ -5,7 +5,7 @@
 
 -Chess player
 
--Im currently working on me and my skill
+-Im currently working on me and my skills
 
 -Intersted in backend development and ethical hacking
 
