@@ -1,7 +1,4 @@
-## Hi there im Luis Cohalla 
-
-
--Im Computer Science Student in Havana University @matcom
+## Hi there i'm Luis Cohalla 
 
 -Chess player
 
