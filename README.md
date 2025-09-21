@@ -1,4 +1,4 @@
-## Hello i'm Luis Cohalla 
+## Hello there i'm Luis Cohalla 
 -Computer Science student
 
 -Chess player
