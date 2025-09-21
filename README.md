@@ -1,17 +1,12 @@
 ## Hi there i'm Luis Cohalla 
-
+-Computer Science student
 -Chess player
-
--Im currently working on me and my skills
-
--Intersted in backend development and ethical hacking
 
 
 #### Languages and Tools:
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,html,css,js,dotnet,git" />
+    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,git" />
   </a>
 </p>
 
@@ -19,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,unity,typescript,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=c,cpp" />
   </a>
 </p>
 
