@@ -5,6 +5,13 @@ Computer Science Student | Chess Enthusiast
 
 Welcome to my GitHub profile! I'm passionate about software development and continuously expanding my technical skills.
 
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-cohalla">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ## Languages and Tools
 <p align="center">
