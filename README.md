@@ -1,17 +1,19 @@
-## Hello there i'm Luis Cohalla 
--Computer Science student
+# Luis Cohalla
 
--Chess player
+## About Me
+Computer Science Student | Chess Enthusiast
+
+Welcome to my GitHub profile! I'm passionate about software development and continuously expanding my technical skills.
 
 
-#### Languages and Tools:
+## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,py,dotnet,git" />
   </a>
 </p>
 
-#### Learning:
+## Currently Learning
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -19,7 +21,7 @@
   </a>
 </p>
 
-#### Github Stats:
+## GitHub Statistics
 
 
 <p align="left">
