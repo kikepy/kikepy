@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and cont
 ## Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,git" />
+    <img src="https://skillicons.dev/icons?i=cs,py,dotnet,git,bash,nodejs,cpp" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about software development and cont
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp" />
+    <img src="https://skillicons.dev/icons?i=c" />
   </a>
 </p>
 
